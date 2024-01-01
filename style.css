@@ -1,0 +1,14 @@
+div{
+    height: 600px;
+    /* width: 500px; */
+    background-image: url("photo.jpg");
+    background-size: cover;
+    text-align: center;
+    color: rgb(186, 16, 78);
+    font-size: 150px;
+    
+}
+body{
+    background-color:white;
+    color: black
+}
