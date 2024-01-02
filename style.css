@@ -1,14 +1,21 @@
-div{
-    height: 600px;
-    /* width: 500px; */
-    background-image: url("photo.jpg");
-    background-size: cover;
+.image{
+    height: 550px;
+    /* width: vw; */
+    /* background-image: url("photo.jpg"); */
+    /* background-size: cover */
     text-align: center;
     color: rgb(186, 16, 78);
-    font-size: 150px;
+    font-size: 100px;
+    display: flex;
+    /* background-size: cover; */
     
 }
 body{
     background-color:white;
     color: black
+}
+.image1{
+    background-size: cover;
+    height: 90%;
+    width: 60%;
 }
