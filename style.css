@@ -1,21 +1,22 @@
-.image{
-    height: 550px;
-    /* width: vw; */
-    /* background-image: url("photo.jpg"); */
-    /* background-size: cover */
-    text-align: center;
-    color: rgb(186, 16, 78);
-    font-size: 100px;
+.image_content{
+    height: 650px;
     display: flex;
-    /* background-size: cover; */
+    background-color: #e2e7e6;
     
 }
-body{
-    background-color:white;
-    color: black
+.image{
+    height: 100%;
+    /* border: 2px solid black; */
+    width: 50%;
+
 }
-.image1{
+.box_image{
+    height: 87%;
     background-size: cover;
-    height: 90%;
-    width: 60%;
+    
+}
+h2{
+    text-align: center;
+    font-size: 25px;
+    color: crimson;
 }
